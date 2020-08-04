@@ -9,3 +9,8 @@ To run this service code, please ollow below steps -
 
 Once service starts at '9000' or default port, then start angular web app. 
 To start web app, steps are written in - https://github.com/pm-code-challenges/product-list-web-app/tree/dev - readme.md file
+
+DB details
+DB - mySQL
+DB name - products_db, table - product_list
+DB connections details are in db.config.js
